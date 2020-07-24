@@ -117,14 +117,6 @@ footer {
   background-color: rgba(33, 39, 40, 0.2);
 }
 
-.hero-footer .social a:hover svg {
-  fill: white;
-}
-
-.hero-footer .social a:hover .socialIcon {
-  stroke: #0a99c2;
-}
-
 .principles {
   color: #212529;
 }
